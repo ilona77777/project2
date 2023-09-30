@@ -7,7 +7,7 @@ Postman
 Git and GitHub
 SoapUI
 SQL
-DevTools
+DevTools 
 MS Office and Google
 Software testing
 Creating test cases
