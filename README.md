@@ -1,12 +1,14 @@
 # project2
 
-Jira
+Jira	
 
+	Postman		
+	Git and GitHub	
+SoapUI	  
+	
+* SQL
 
-Postman
-Git and GitHub
-SoapUI
-SQL
+* testerzy.pl
 DevTools 
 MS Office and Google
 Software testing
