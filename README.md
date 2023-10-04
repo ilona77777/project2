@@ -1,6 +1,6 @@
 # project2
 
-* Jira	
+# Jira	#
 
 * Postman		
 * Git and GitHub	
@@ -9,6 +9,8 @@
 * SQL
 
 * <a href>testerzy.pl</a>
+
+[test (wp.pl)]
 * DevTools 
 * MS Office and Google
 Software testing
