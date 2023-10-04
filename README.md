@@ -10,7 +10,7 @@
 
 * <a href>testerzy.pl</a>
 
-[test (wp.pl)]
+[test] (wp.pl)
 * DevTools 
 * MS Office and Google
 Software testing
