@@ -10,7 +10,7 @@
 
 * <a href>testerzy.pl</a>
 * DevTools 
-*MS Office and Google
+* MS Office and Google
 Software testing
 Creating test cases
 Reporting bugs
