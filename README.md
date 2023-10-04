@@ -1,10 +1,10 @@
 # project2
 
-*Jira	
+* Jira	
 
-*Postman		
-*Git and GitHub	
-SoapUI	  
+* Postman		
+* Git and GitHub	
+* SoapUI	  
 	
 * SQL
 
